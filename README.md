@@ -20,3 +20,5 @@ Unweighted 2023: https://www.cs.helsinki.fi/group/coreo/MSE2023-anytime-instance
 Compile instructions are written in Makefile. Just run Make at the root directory!
 
 
+## run
+./clls dir/to/instance seed
